@@ -25,7 +25,7 @@ svg .mask {
     width: 300vw;
 
     background-color: #F0E5DE;
-    border-radius: 25%;
+    border-radius: 5px;
     padding: 1rem 2.5rem;
 }
 .container .col {
