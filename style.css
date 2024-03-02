@@ -64,3 +64,6 @@ section {
 .col {
     width: 50%
 }
+span, span.anim {
+    letter-spacing: 7px;
+}
