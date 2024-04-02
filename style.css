@@ -64,6 +64,18 @@ section {
 .col {
     width: 50%
 }
+@media (max-width: 800px) {
+    svg {
+        width: 10vw;
+    }
+    .container section h1 {
+        font-size: 2rem;
+    }
+    .container section p {
+        font-size: .95rem;
+        width: 9vw;
+    }
+}
 span, span.anim {
     letter-spacing: 7px;
 }
