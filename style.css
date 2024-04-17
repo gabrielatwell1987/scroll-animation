@@ -8,6 +8,7 @@
 body {
     height: 100vh;
     font-family: "Oswald", sans-serif;
+    background: url('/stacked-steps-bg.svg') no-repeat center center/cover fixed;
 }
 .wrapper {
     overflow-x: hidden;
