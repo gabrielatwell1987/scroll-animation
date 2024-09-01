@@ -81,4 +81,7 @@ span, span.anim {
         font-size: 1rem;
         width: 100%;
     }
+    .col p, .col .anim p {
+        width: 50%;
+    }
 }
